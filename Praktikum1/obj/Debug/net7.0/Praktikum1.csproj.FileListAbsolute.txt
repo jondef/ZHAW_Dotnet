@@ -1,0 +1,14 @@
+/Users/jon/RiderProjects/DotNet/Praktikum1/bin/Debug/net7.0/Praktikum1
+/Users/jon/RiderProjects/DotNet/Praktikum1/bin/Debug/net7.0/Praktikum1.deps.json
+/Users/jon/RiderProjects/DotNet/Praktikum1/bin/Debug/net7.0/Praktikum1.runtimeconfig.json
+/Users/jon/RiderProjects/DotNet/Praktikum1/bin/Debug/net7.0/Praktikum1.dll
+/Users/jon/RiderProjects/DotNet/Praktikum1/bin/Debug/net7.0/Praktikum1.pdb
+/Users/jon/RiderProjects/DotNet/Praktikum1/obj/Debug/net7.0/Praktikum1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/RiderProjects/DotNet/Praktikum1/obj/Debug/net7.0/Praktikum1.AssemblyInfoInputs.cache
+/Users/jon/RiderProjects/DotNet/Praktikum1/obj/Debug/net7.0/Praktikum1.AssemblyInfo.cs
+/Users/jon/RiderProjects/DotNet/Praktikum1/obj/Debug/net7.0/Praktikum1.csproj.CoreCompileInputs.cache
+/Users/jon/RiderProjects/DotNet/Praktikum1/obj/Debug/net7.0/Praktikum1.dll
+/Users/jon/RiderProjects/DotNet/Praktikum1/obj/Debug/net7.0/refint/Praktikum1.dll
+/Users/jon/RiderProjects/DotNet/Praktikum1/obj/Debug/net7.0/Praktikum1.pdb
+/Users/jon/RiderProjects/DotNet/Praktikum1/obj/Debug/net7.0/Praktikum1.genruntimeconfig.cache
+/Users/jon/RiderProjects/DotNet/Praktikum1/obj/Debug/net7.0/ref/Praktikum1.dll

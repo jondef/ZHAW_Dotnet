@@ -1,0 +1,5 @@
+/Users/jon/RiderProjects/DotNet/obj/Debug/net7.0/DotNet.csproj.AssemblyReference.cache
+/Users/jon/RiderProjects/DotNet/obj/Debug/net7.0/DotNet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/RiderProjects/DotNet/obj/Debug/net7.0/DotNet.AssemblyInfoInputs.cache
+/Users/jon/RiderProjects/DotNet/obj/Debug/net7.0/DotNet.AssemblyInfo.cs
+/Users/jon/RiderProjects/DotNet/obj/Debug/net7.0/DotNet.csproj.CoreCompileInputs.cache
