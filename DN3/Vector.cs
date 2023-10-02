@@ -23,7 +23,7 @@ namespace DN3 {
         public static Vector operator -(Vector a, Vector b) {
             return new Vector(a.x - b.x, a.y - b.y, a.z - b.z);
         }
-
+        
         public static Vector operator *(Vector a, Vector b) {
             return new Vector(
                 a.y * b.z - a.z * b.y,
