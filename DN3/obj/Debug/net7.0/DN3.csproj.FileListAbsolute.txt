@@ -1,0 +1,14 @@
+/Users/jon/RiderProjects/DotNet/DN3/obj/Debug/net7.0/DN3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/RiderProjects/DotNet/DN3/obj/Debug/net7.0/DN3.AssemblyInfoInputs.cache
+/Users/jon/RiderProjects/DotNet/DN3/obj/Debug/net7.0/DN3.AssemblyInfo.cs
+/Users/jon/RiderProjects/DotNet/DN3/obj/Debug/net7.0/DN3.csproj.CoreCompileInputs.cache
+/Users/jon/RiderProjects/DotNet/DN3/bin/Debug/net7.0/DN3
+/Users/jon/RiderProjects/DotNet/DN3/bin/Debug/net7.0/DN3.deps.json
+/Users/jon/RiderProjects/DotNet/DN3/bin/Debug/net7.0/DN3.runtimeconfig.json
+/Users/jon/RiderProjects/DotNet/DN3/bin/Debug/net7.0/DN3.dll
+/Users/jon/RiderProjects/DotNet/DN3/bin/Debug/net7.0/DN3.pdb
+/Users/jon/RiderProjects/DotNet/DN3/obj/Debug/net7.0/DN3.dll
+/Users/jon/RiderProjects/DotNet/DN3/obj/Debug/net7.0/refint/DN3.dll
+/Users/jon/RiderProjects/DotNet/DN3/obj/Debug/net7.0/DN3.pdb
+/Users/jon/RiderProjects/DotNet/DN3/obj/Debug/net7.0/DN3.genruntimeconfig.cache
+/Users/jon/RiderProjects/DotNet/DN3/obj/Debug/net7.0/ref/DN3.dll

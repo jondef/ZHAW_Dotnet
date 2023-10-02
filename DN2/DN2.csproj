@@ -5,15 +5,7 @@
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <RootNamespace>Praktikum2</RootNamespace>
     </PropertyGroup>
-
-    <ItemGroup>
-      <Compile Update="DN1\Program.cs">
-        <Link>DN2\Program.cs</Link>
-      </Compile>
-      <Compile Update="DN2\Program.cs">
-        <Link>Praktikum2\Program.cs</Link>
-      </Compile>
-    </ItemGroup>
 
 </Project>

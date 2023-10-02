@@ -1,0 +1,14 @@
+/Users/jon/RiderProjects/DotNet/DN2/bin/Debug/net7.0/DN2
+/Users/jon/RiderProjects/DotNet/DN2/bin/Debug/net7.0/DN2.deps.json
+/Users/jon/RiderProjects/DotNet/DN2/bin/Debug/net7.0/DN2.runtimeconfig.json
+/Users/jon/RiderProjects/DotNet/DN2/bin/Debug/net7.0/DN2.dll
+/Users/jon/RiderProjects/DotNet/DN2/bin/Debug/net7.0/DN2.pdb
+/Users/jon/RiderProjects/DotNet/DN2/obj/Debug/net7.0/DN2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jon/RiderProjects/DotNet/DN2/obj/Debug/net7.0/DN2.AssemblyInfoInputs.cache
+/Users/jon/RiderProjects/DotNet/DN2/obj/Debug/net7.0/DN2.AssemblyInfo.cs
+/Users/jon/RiderProjects/DotNet/DN2/obj/Debug/net7.0/DN2.csproj.CoreCompileInputs.cache
+/Users/jon/RiderProjects/DotNet/DN2/obj/Debug/net7.0/DN2.dll
+/Users/jon/RiderProjects/DotNet/DN2/obj/Debug/net7.0/refint/DN2.dll
+/Users/jon/RiderProjects/DotNet/DN2/obj/Debug/net7.0/DN2.pdb
+/Users/jon/RiderProjects/DotNet/DN2/obj/Debug/net7.0/DN2.genruntimeconfig.cache
+/Users/jon/RiderProjects/DotNet/DN2/obj/Debug/net7.0/ref/DN2.dll
