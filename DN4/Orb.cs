@@ -63,12 +63,9 @@ namespace DN4 {
             // ugly fix
             if (Velocity[0] == -0.038) {
                 Velocity = new Vector(Velocity[0], 0.00075, Velocity[2]);
-            }
-            else {
+            } else {
                 Velocity = new Vector(Velocity[0], -0.075, Velocity[2]);
             }
-
-
         }
 
         public void Move() {
